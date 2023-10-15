@@ -1,0 +1,33 @@
+name: Prison
+author: Uprank - Finn K.
+version: 1.0-SNAPSHOT
+main: net.unestia.prison.Prison
+api-version: 1.16
+
+commands:
+  ah:
+    permission: permission.prison.command.ah
+  crate:
+    permission: permission.prison.command.crate
+  kit:
+    permission: permission.prison.command.kit
+  house:
+    permission: permission.prison.command.house
+  price:
+    permission: permission.prison.command.price
+  pvp:
+    permission: permission.prison.command.pvp
+  rankup:
+    permission: permission.prison.command.rankup
+  sell:
+    permission: permission.prison.command.sell
+  set:
+    permission: permission.prison.command.set
+  setup:
+    permission: permission.prison.command.setup
+  spawn:
+    permission: permission.prison.command.spawn
+  tokens:
+    permission: permission.prison.command.tokens
+  upgrade:
+    permission: permission.prison.command.upgrade
